@@ -1,0 +1,2102 @@
+[
+  {
+    "id": 1,
+    "nome": "Rafael Silva",
+    "foto": "./public/images/photo2.svg",
+    "cargo": "UX Designer",
+    "resumo": "Profissional com foco em inovação e colaboração.",
+    "localizacao": "Fortaleza",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "Docker",
+      "Figma",
+      "SQL",
+      "Tailwind"
+    ],
+    "softSkills": [
+      "Criatividade",
+      "Trabalho em equipe",
+      "Comunicação"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa X",
+        "cargo": "Estágio",
+        "inicio": "2021",
+        "fim": "2023"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Tecnologia",
+        "instituicao": "Universidade Y",
+        "ano": 2019
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "nome": "Mariana Almeida",
+    "foto": "./public/images/photo3.svg",
+    "cargo": "PM Assistant",
+    "resumo": "Profissional com foco em inovação e colaboração.",
+    "localizacao": "Fortaleza",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "Docker",
+      "SQL",
+      "Figma",
+      "AWS"
+    ],
+    "softSkills": [
+      "Liderança",
+      "Comunicação",
+      "Trabalho em equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa X",
+        "cargo": "Estágio",
+        "inicio": "2021",
+        "fim": "2023"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Tecnologia",
+        "instituicao": "Universidade Y",
+        "ano": 2019
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "nome": "Isabela Almeida",
+    "foto": "./public/images/photo4.svg",
+    "cargo": "Dev Full Stack",
+    "resumo": "Profissional com foco em inovação e colaboração.",
+    "localizacao": "Curitiba",
+    "area": "Dados",
+    "habilidadesTecnicas": [
+      "Figma",
+      "Node.js",
+      "Python",
+      "AWS"
+    ],
+    "softSkills": [
+      "Criatividade",
+      "Comunicação",
+      "Trabalho em equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa X",
+        "cargo": "Estágio",
+        "inicio": "2021",
+        "fim": "2023"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Tecnologia",
+        "instituicao": "Universidade Y",
+        "ano": 2019
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "nome": "Henrique Costa",
+    "foto": "./public/images/photo5.svg",
+    "cargo": "Analista de Dados",
+    "resumo": "Profissional com foco em inovação e colaboração.",
+    "localizacao": "Curitiba",
+    "area": "Finanças",
+    "habilidadesTecnicas": [
+      "Node.js",
+      "Docker",
+      "Tailwind",
+      "Python"
+    ],
+    "softSkills": [
+      "Criatividade",
+      "Liderança",
+      "Trabalho em equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa X",
+        "cargo": "Estágio",
+        "inicio": "2021",
+        "fim": "2023"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Tecnologia",
+        "instituicao": "Universidade Y",
+        "ano": 2019
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "nome": "Diego Almeida",
+    "foto": "./public/images/photo6.svg",
+    "cargo": "Analista de Dados",
+    "resumo": "Profissional com foco em inovação e colaboração.",
+    "localizacao": "Rio de Janeiro",
+    "area": "Marketing",
+    "habilidadesTecnicas": [
+      "React",
+      "Python",
+      "AWS",
+      "Tailwind"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Trabalho em equipe",
+      "Criatividade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa X",
+        "cargo": "Estágio",
+        "inicio": "2021",
+        "fim": "2023"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Tecnologia",
+        "instituicao": "Universidade Y",
+        "ano": 2019
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "nome": "Mariana Almeida",
+    "foto": "./public/images/photo7.svg",
+    "cargo": "UX Designer",
+    "resumo": "Profissional com foco em inovação e colaboração.",
+    "localizacao": "Salvador",
+    "area": "Finanças",
+    "habilidadesTecnicas": [
+      "Docker",
+      "SQL",
+      "Tailwind",
+      "TypeScript"
+    ],
+    "softSkills": [
+      "Criatividade",
+      "Trabalho em equipe",
+      "Comunicação"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa X",
+        "cargo": "Estágio",
+        "inicio": "2021",
+        "fim": "2023"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Tecnologia",
+        "instituicao": "Universidade Y",
+        "ano": 2019
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "nome": "Carla Almeida",
+    "foto": "./public/images/photo8.svg",
+    "cargo": "Dev Full Stack",
+    "resumo": "Profissional com foco em inovação e colaboração.",
+    "localizacao": "Fortaleza",
+    "area": "Marketing",
+    "habilidadesTecnicas": [
+      "Docker",
+      "Node.js",
+      "AWS",
+      "React"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Liderança",
+      "Trabalho em equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa X",
+        "cargo": "Estágio",
+        "inicio": "2021",
+        "fim": "2023"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Tecnologia",
+        "instituicao": "Universidade Y",
+        "ano": 2019
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "nome": "Sofia Costa",
+    "foto": "./public/images/photo9.svg",
+    "cargo": "UX Designer",
+    "resumo": "Profissional com foco em inovação e colaboração.",
+    "localizacao": "Rio de Janeiro",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "AWS",
+      "Tailwind",
+      "TypeScript",
+      "SQL"
+    ],
+    "softSkills": [
+      "Trabalho em equipe",
+      "Criatividade",
+      "Liderança"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa X",
+        "cargo": "Estágio",
+        "inicio": "2021",
+        "fim": "2023"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Tecnologia",
+        "instituicao": "Universidade Y",
+        "ano": 2019
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "nome": "Paulo Costa",
+    "foto": "./public/images/photo10.svg",
+    "cargo": "Dev Full Stack",
+    "resumo": "Profissional com foco em inovação e colaboração.",
+    "localizacao": "Salvador",
+    "area": "Marketing",
+    "habilidadesTecnicas": [
+      "Figma",
+      "Python",
+      "React",
+      "SQL"
+    ],
+    "softSkills": [
+      "Criatividade",
+      "Liderança",
+      "Trabalho em equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa X",
+        "cargo": "Estágio",
+        "inicio": "2021",
+        "fim": "2023"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Tecnologia",
+        "instituicao": "Universidade Y",
+        "ano": 2019
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "nome": "Felipe Silva",
+    "foto": "./public/images/photo1.svg",
+    "cargo": "UX Designer",
+    "resumo": "Profissional com foco em inovação e colaboração.",
+    "localizacao": "Rio de Janeiro",
+    "area": "Dados",
+    "habilidadesTecnicas": [
+      "Node.js",
+      "Tailwind",
+      "AWS",
+      "React"
+    ],
+    "softSkills": [
+      "Criatividade",
+      "Comunicação",
+      "Trabalho em equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa X",
+        "cargo": "Estágio",
+        "inicio": "2021",
+        "fim": "2023"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Tecnologia",
+        "instituicao": "Universidade Y",
+        "ano": 2019
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "nome": "João Souza",
+    "foto": "./public/images/photo2.svg",
+    "cargo": "PM Assistant",
+    "resumo": "Profissional com foco em inovação e colaboração.",
+    "localizacao": "Curitiba",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": [
+      "Docker",
+      "Tailwind",
+      "Figma",
+      "Node.js"
+    ],
+    "softSkills": [
+      "Criatividade",
+      "Liderança",
+      "Trabalho em equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa X",
+        "cargo": "Estágio",
+        "inicio": "2021",
+        "fim": "2023"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Tecnologia",
+        "instituicao": "Universidade Y",
+        "ano": 2019
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "nome": "Bruno Almeida",
+    "foto": "./public/images/photo3.svg",
+    "cargo": "Dev Full Stack",
+    "resumo": "Profissional com foco em inovação e colaboração.",
+    "localizacao": "Curitiba",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": [
+      "Figma",
+      "Node.js",
+      "SQL",
+      "Docker"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Liderança",
+      "Trabalho em equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa X",
+        "cargo": "Estágio",
+        "inicio": "2021",
+        "fim": "2023"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Tecnologia",
+        "instituicao": "Universidade Y",
+        "ano": 2019
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "nome": "Diego Silva",
+    "foto": "./public/images/photo4.svg",
+    "cargo": "Analista de Dados",
+    "resumo": "Profissional com foco em inovação e colaboração.",
+    "localizacao": "Curitiba",
+    "area": "Dados",
+    "habilidadesTecnicas": [
+      "SQL",
+      "TypeScript",
+      "Python",
+      "Node.js"
+    ],
+    "softSkills": [
+      "Trabalho em equipe",
+      "Comunicação",
+      "Criatividade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa X",
+        "cargo": "Estágio",
+        "inicio": "2021",
+        "fim": "2023"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Tecnologia",
+        "instituicao": "Universidade Y",
+        "ano": 2019
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "nome": "João Costa",
+    "foto": "./public/images/photo5.svg",
+    "cargo": "PM Assistant",
+    "resumo": "Profissional com foco em inovação e colaboração.",
+    "localizacao": "São Paulo",
+    "area": "Dados",
+    "habilidadesTecnicas": [
+      "Python",
+      "Tailwind",
+      "AWS",
+      "SQL"
+    ],
+    "softSkills": [
+      "Criatividade",
+      "Trabalho em equipe",
+      "Comunicação"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa X",
+        "cargo": "Estágio",
+        "inicio": "2021",
+        "fim": "2023"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Tecnologia",
+        "instituicao": "Universidade Y",
+        "ano": 2019
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "nome": "Lucas Souza",
+    "foto": "./public/images/photo6.svg",
+    "cargo": "PM Assistant",
+    "resumo": "Profissional com foco em inovação e colaboração.",
+    "localizacao": "São Paulo",
+    "area": "Finanças",
+    "habilidadesTecnicas": [
+      "Node.js",
+      "TypeScript",
+      "Docker",
+      "Python"
+    ],
+    "softSkills": [
+      "Liderança",
+      "Criatividade",
+      "Trabalho em equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa X",
+        "cargo": "Estágio",
+        "inicio": "2021",
+        "fim": "2023"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Tecnologia",
+        "instituicao": "Universidade Y",
+        "ano": 2019
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "nome": "Henrique Almeida",
+    "foto": "./public/images/photo7.svg",
+    "cargo": "UX Designer",
+    "resumo": "Profissional com foco em inovação e colaboração.",
+    "localizacao": "São Paulo",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "Node.js",
+      "SQL",
+      "Docker",
+      "Python"
+    ],
+    "softSkills": [
+      "Trabalho em equipe",
+      "Liderança",
+      "Criatividade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa X",
+        "cargo": "Estágio",
+        "inicio": "2021",
+        "fim": "2023"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Tecnologia",
+        "instituicao": "Universidade Y",
+        "ano": 2019
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "nome": "Carla Souza",
+    "foto": "./public/images/photo8.svg",
+    "cargo": "Analista de Dados",
+    "resumo": "Profissional com foco em inovação e colaboração.",
+    "localizacao": "São Paulo",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": [
+      "Tailwind",
+      "React",
+      "AWS",
+      "Node.js"
+    ],
+    "softSkills": [
+      "Criatividade",
+      "Liderança",
+      "Comunicação"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa X",
+        "cargo": "Estágio",
+        "inicio": "2021",
+        "fim": "2023"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Tecnologia",
+        "instituicao": "Universidade Y",
+        "ano": 2019
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "nome": "Bruno Almeida",
+    "foto": "./public/images/photo9.svg",
+    "cargo": "Frontend JR",
+    "resumo": "Profissional com foco em inovação e colaboração.",
+    "localizacao": "Curitiba",
+    "area": "Marketing",
+    "habilidadesTecnicas": [
+      "Docker",
+      "TypeScript",
+      "AWS",
+      "SQL"
+    ],
+    "softSkills": [
+      "Criatividade",
+      "Comunicação",
+      "Liderança"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa X",
+        "cargo": "Estágio",
+        "inicio": "2021",
+        "fim": "2023"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Tecnologia",
+        "instituicao": "Universidade Y",
+        "ano": 2019
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "nome": "Rafael Costa",
+    "foto": "./public/images/photo10.svg",
+    "cargo": "Dev Full Stack",
+    "resumo": "Profissional com foco em inovação e colaboração.",
+    "localizacao": "Fortaleza",
+    "area": "Marketing",
+    "habilidadesTecnicas": [
+      "Figma",
+      "AWS",
+      "Tailwind",
+      "Python"
+    ],
+    "softSkills": [
+      "Criatividade",
+      "Liderança",
+      "Trabalho em equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa X",
+        "cargo": "Estágio",
+        "inicio": "2021",
+        "fim": "2023"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Tecnologia",
+        "instituicao": "Universidade Y",
+        "ano": 2019
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "nome": "Mariana Silva",
+    "foto": "./public/images/photo1.svg",
+    "cargo": "UX Designer",
+    "resumo": "Profissional com foco em inovação e colaboração.",
+    "localizacao": "Fortaleza",
+    "area": "Marketing",
+    "habilidadesTecnicas": [
+      "SQL",
+      "Docker",
+      "AWS",
+      "Tailwind"
+    ],
+    "softSkills": [
+      "Trabalho em equipe",
+      "Liderança",
+      "Criatividade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa X",
+        "cargo": "Estágio",
+        "inicio": "2021",
+        "fim": "2023"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Tecnologia",
+        "instituicao": "Universidade Y",
+        "ano": 2019
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "nome": "Isabela Souza",
+    "foto": "./public/images/photo2.svg",
+    "cargo": "UX Designer",
+    "resumo": "Profissional com foco em inovação e colaboração.",
+    "localizacao": "Salvador",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "TypeScript",
+      "SQL",
+      "Docker",
+      "React"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Criatividade",
+      "Trabalho em equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa X",
+        "cargo": "Estágio",
+        "inicio": "2021",
+        "fim": "2023"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Tecnologia",
+        "instituicao": "Universidade Y",
+        "ano": 2019
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "nome": "Mariana Souza",
+    "foto": "./public/images/photo3.svg",
+    "cargo": "Frontend JR",
+    "resumo": "Profissional com foco em inovação e colaboração.",
+    "localizacao": "Salvador",
+    "area": "Dados",
+    "habilidadesTecnicas": [
+      "Tailwind",
+      "SQL",
+      "Figma",
+      "React"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Liderança",
+      "Criatividade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa X",
+        "cargo": "Estágio",
+        "inicio": "2021",
+        "fim": "2023"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Tecnologia",
+        "instituicao": "Universidade Y",
+        "ano": 2019
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "nome": "Bruno Almeida",
+    "foto": "./public/images/photo4.svg",
+    "cargo": "Frontend JR",
+    "resumo": "Profissional com foco em inovação e colaboração.",
+    "localizacao": "São Paulo",
+    "area": "Dados",
+    "habilidadesTecnicas": [
+      "SQL",
+      "Docker",
+      "AWS",
+      "Python"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Criatividade",
+      "Trabalho em equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa X",
+        "cargo": "Estágio",
+        "inicio": "2021",
+        "fim": "2023"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Tecnologia",
+        "instituicao": "Universidade Y",
+        "ano": 2019
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "nome": "Henrique Souza",
+    "foto": "./public/images/photo5.svg",
+    "cargo": "Analista de Dados",
+    "resumo": "Profissional com foco em inovação e colaboração.",
+    "localizacao": "Salvador",
+    "area": "Finanças",
+    "habilidadesTecnicas": [
+      "Figma",
+      "AWS",
+      "Tailwind",
+      "TypeScript"
+    ],
+    "softSkills": [
+      "Criatividade",
+      "Trabalho em equipe",
+      "Liderança"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa X",
+        "cargo": "Estágio",
+        "inicio": "2021",
+        "fim": "2023"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Tecnologia",
+        "instituicao": "Universidade Y",
+        "ano": 2019
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "nome": "Bruno Silva",
+    "foto": "./public/images/photo6.svg",
+    "cargo": "UX Designer",
+    "resumo": "Profissional com foco em inovação e colaboração.",
+    "localizacao": "Rio de Janeiro",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "React",
+      "TypeScript",
+      "SQL",
+      "Node.js"
+    ],
+    "softSkills": [
+      "Trabalho em equipe",
+      "Comunicação",
+      "Liderança"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa X",
+        "cargo": "Estágio",
+        "inicio": "2021",
+        "fim": "2023"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Tecnologia",
+        "instituicao": "Universidade Y",
+        "ano": 2019
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "nome": "Paulo Almeida",
+    "foto": "./public/images/photo7.svg",
+    "cargo": "Dev Full Stack",
+    "resumo": "Profissional com foco em inovação e colaboração.",
+    "localizacao": "Salvador",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": [
+      "AWS",
+      "SQL",
+      "Python",
+      "TypeScript"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Liderança",
+      "Criatividade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa X",
+        "cargo": "Estágio",
+        "inicio": "2021",
+        "fim": "2023"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Tecnologia",
+        "instituicao": "Universidade Y",
+        "ano": 2019
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "nome": "Ana Costa",
+    "foto": "./public/images/photo8.svg",
+    "cargo": "UX Designer",
+    "resumo": "Profissional com foco em inovação e colaboração.",
+    "localizacao": "Curitiba",
+    "area": "Marketing",
+    "habilidadesTecnicas": [
+      "Python",
+      "Docker",
+      "Figma",
+      "TypeScript"
+    ],
+    "softSkills": [
+      "Liderança",
+      "Comunicação",
+      "Trabalho em equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa X",
+        "cargo": "Estágio",
+        "inicio": "2021",
+        "fim": "2023"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Tecnologia",
+        "instituicao": "Universidade Y",
+        "ano": 2019
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "nome": "Isabela Silva",
+    "foto": "./public/images/photo9.svg",
+    "cargo": "Dev Full Stack",
+    "resumo": "Profissional com foco em inovação e colaboração.",
+    "localizacao": "São Paulo",
+    "area": "Dados",
+    "habilidadesTecnicas": [
+      "Docker",
+      "Tailwind",
+      "React",
+      "Node.js"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Trabalho em equipe",
+      "Criatividade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa X",
+        "cargo": "Estágio",
+        "inicio": "2021",
+        "fim": "2023"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Tecnologia",
+        "instituicao": "Universidade Y",
+        "ano": 2019
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "nome": "Felipe Silva",
+    "foto": "./public/images/photo10.svg",
+    "cargo": "PM Assistant",
+    "resumo": "Profissional com foco em inovação e colaboração.",
+    "localizacao": "Salvador",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": [
+      "Python",
+      "Tailwind",
+      "Node.js",
+      "TypeScript"
+    ],
+    "softSkills": [
+      "Trabalho em equipe",
+      "Comunicação",
+      "Liderança"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa X",
+        "cargo": "Estágio",
+        "inicio": "2021",
+        "fim": "2023"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Tecnologia",
+        "instituicao": "Universidade Y",
+        "ano": 2019
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "nome": "Mariana Silva",
+    "foto": "./public/images/photo1.svg",
+    "cargo": "UX Designer",
+    "resumo": "Profissional com foco em inovação e colaboração.",
+    "localizacao": "Fortaleza",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": [
+      "Python",
+      "Tailwind",
+      "React",
+      "SQL"
+    ],
+    "softSkills": [
+      "Criatividade",
+      "Trabalho em equipe",
+      "Liderança"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa X",
+        "cargo": "Estágio",
+        "inicio": "2021",
+        "fim": "2023"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Tecnologia",
+        "instituicao": "Universidade Y",
+        "ano": 2019
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "nome": "Carla Almeida",
+    "foto": "./public/images/photo2.svg",
+    "cargo": "Frontend JR",
+    "resumo": "Profissional com foco em inovação e colaboração.",
+    "localizacao": "Fortaleza",
+    "area": "Finanças",
+    "habilidadesTecnicas": [
+      "AWS",
+      "Python",
+      "TypeScript",
+      "SQL"
+    ],
+    "softSkills": [
+      "Trabalho em equipe",
+      "Comunicação",
+      "Criatividade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa X",
+        "cargo": "Estágio",
+        "inicio": "2021",
+        "fim": "2023"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Tecnologia",
+        "instituicao": "Universidade Y",
+        "ano": 2019
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "nome": "Felipe Silva",
+    "foto": "./public/images/photo3.svg",
+    "cargo": "UX Designer",
+    "resumo": "Profissional com foco em inovação e colaboração.",
+    "localizacao": "Salvador",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "SQL",
+      "React",
+      "Figma",
+      "AWS"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Liderança",
+      "Criatividade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa X",
+        "cargo": "Estágio",
+        "inicio": "2021",
+        "fim": "2023"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Tecnologia",
+        "instituicao": "Universidade Y",
+        "ano": 2019
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "nome": "Bruno Costa",
+    "foto": "./public/images/photo4.svg",
+    "cargo": "UX Designer",
+    "resumo": "Profissional com foco em inovação e colaboração.",
+    "localizacao": "Fortaleza",
+    "area": "Finanças",
+    "habilidadesTecnicas": [
+      "Docker",
+      "Tailwind",
+      "AWS",
+      "Node.js"
+    ],
+    "softSkills": [
+      "Liderança",
+      "Comunicação",
+      "Trabalho em equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa X",
+        "cargo": "Estágio",
+        "inicio": "2021",
+        "fim": "2023"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Tecnologia",
+        "instituicao": "Universidade Y",
+        "ano": 2019
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "nome": "Bruno Souza",
+    "foto": "./public/images/photo5.svg",
+    "cargo": "Dev Full Stack",
+    "resumo": "Profissional com foco em inovação e colaboração.",
+    "localizacao": "Fortaleza",
+    "area": "Finanças",
+    "habilidadesTecnicas": [
+      "Figma",
+      "TypeScript",
+      "Python",
+      "Node.js"
+    ],
+    "softSkills": [
+      "Liderança",
+      "Criatividade",
+      "Trabalho em equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa X",
+        "cargo": "Estágio",
+        "inicio": "2021",
+        "fim": "2023"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Tecnologia",
+        "instituicao": "Universidade Y",
+        "ano": 2019
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "nome": "Gabriela Almeida",
+    "foto": "./public/images/photo6.svg",
+    "cargo": "PM Assistant",
+    "resumo": "Profissional com foco em inovação e colaboração.",
+    "localizacao": "Salvador",
+    "area": "Dados",
+    "habilidadesTecnicas": [
+      "SQL",
+      "TypeScript",
+      "Docker",
+      "Python"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Criatividade",
+      "Liderança"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa X",
+        "cargo": "Estágio",
+        "inicio": "2021",
+        "fim": "2023"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Tecnologia",
+        "instituicao": "Universidade Y",
+        "ano": 2019
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "nome": "Rafael Silva",
+    "foto": "./public/images/photo7.svg",
+    "cargo": "Frontend JR",
+    "resumo": "Profissional com foco em inovação e colaboração.",
+    "localizacao": "Curitiba",
+    "area": "Finanças",
+    "habilidadesTecnicas": [
+      "SQL",
+      "Tailwind",
+      "React",
+      "TypeScript"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Liderança",
+      "Criatividade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa X",
+        "cargo": "Estágio",
+        "inicio": "2021",
+        "fim": "2023"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Tecnologia",
+        "instituicao": "Universidade Y",
+        "ano": 2019
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "nome": "Bruno Silva",
+    "foto": "./public/images/photo8.svg",
+    "cargo": "Frontend JR",
+    "resumo": "Profissional com foco em inovação e colaboração.",
+    "localizacao": "Rio de Janeiro",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": [
+      "React",
+      "SQL",
+      "Figma",
+      "Tailwind"
+    ],
+    "softSkills": [
+      "Criatividade",
+      "Trabalho em equipe",
+      "Comunicação"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa X",
+        "cargo": "Estágio",
+        "inicio": "2021",
+        "fim": "2023"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Tecnologia",
+        "instituicao": "Universidade Y",
+        "ano": 2019
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "nome": "Lucas Souza",
+    "foto": "./public/images/photo9.svg",
+    "cargo": "UX Designer",
+    "resumo": "Profissional com foco em inovação e colaboração.",
+    "localizacao": "Rio de Janeiro",
+    "area": "Dados",
+    "habilidadesTecnicas": [
+      "AWS",
+      "Node.js",
+      "TypeScript",
+      "React"
+    ],
+    "softSkills": [
+      "Liderança",
+      "Trabalho em equipe",
+      "Criatividade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa X",
+        "cargo": "Estágio",
+        "inicio": "2021",
+        "fim": "2023"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Tecnologia",
+        "instituicao": "Universidade Y",
+        "ano": 2019
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "nome": "Felipe Souza",
+    "foto": "./public/images/photo10.svg",
+    "cargo": "UX Designer",
+    "resumo": "Profissional com foco em inovação e colaboração.",
+    "localizacao": "Salvador",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "Tailwind",
+      "AWS",
+      "SQL",
+      "Python"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Criatividade",
+      "Trabalho em equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa X",
+        "cargo": "Estágio",
+        "inicio": "2021",
+        "fim": "2023"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Tecnologia",
+        "instituicao": "Universidade Y",
+        "ano": 2019
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "nome": "Diego Almeida",
+    "foto": "./public/images/photo1.svg",
+    "cargo": "Analista de Dados",
+    "resumo": "Profissional com foco em inovação e colaboração.",
+    "localizacao": "Curitiba",
+    "area": "Marketing",
+    "habilidadesTecnicas": [
+      "Docker",
+      "SQL",
+      "Figma",
+      "Tailwind"
+    ],
+    "softSkills": [
+      "Trabalho em equipe",
+      "Liderança",
+      "Comunicação"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa X",
+        "cargo": "Estágio",
+        "inicio": "2021",
+        "fim": "2023"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Tecnologia",
+        "instituicao": "Universidade Y",
+        "ano": 2019
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "nome": "Diego Silva",
+    "foto": "./public/images/photo2.svg",
+    "cargo": "PM Assistant",
+    "resumo": "Profissional com foco em inovação e colaboração.",
+    "localizacao": "Fortaleza",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "Docker",
+      "Node.js",
+      "TypeScript",
+      "Figma"
+    ],
+    "softSkills": [
+      "Liderança",
+      "Comunicação",
+      "Criatividade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa X",
+        "cargo": "Estágio",
+        "inicio": "2021",
+        "fim": "2023"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Tecnologia",
+        "instituicao": "Universidade Y",
+        "ano": 2019
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "nome": "Mariana Silva",
+    "foto": "./public/images/photo3.svg",
+    "cargo": "Frontend JR",
+    "resumo": "Profissional com foco em inovação e colaboração.",
+    "localizacao": "Curitiba",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "React",
+      "Python",
+      "AWS",
+      "Node.js"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Liderança",
+      "Criatividade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa X",
+        "cargo": "Estágio",
+        "inicio": "2021",
+        "fim": "2023"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Tecnologia",
+        "instituicao": "Universidade Y",
+        "ano": 2019
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "nome": "Diego Almeida",
+    "foto": "./public/images/photo4.svg",
+    "cargo": "Frontend JR",
+    "resumo": "Profissional com foco em inovação e colaboração.",
+    "localizacao": "Salvador",
+    "area": "Dados",
+    "habilidadesTecnicas": [
+      "AWS",
+      "SQL",
+      "Figma",
+      "Node.js"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Trabalho em equipe",
+      "Liderança"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa X",
+        "cargo": "Estágio",
+        "inicio": "2021",
+        "fim": "2023"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Tecnologia",
+        "instituicao": "Universidade Y",
+        "ano": 2019
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "nome": "Diego Souza",
+    "foto": "./public/images/photo5.svg",
+    "cargo": "Dev Full Stack",
+    "resumo": "Profissional com foco em inovação e colaboração.",
+    "localizacao": "São Paulo",
+    "area": "Marketing",
+    "habilidadesTecnicas": [
+      "React",
+      "Tailwind",
+      "AWS",
+      "Figma"
+    ],
+    "softSkills": [
+      "Liderança",
+      "Comunicação",
+      "Criatividade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa X",
+        "cargo": "Estágio",
+        "inicio": "2021",
+        "fim": "2023"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Tecnologia",
+        "instituicao": "Universidade Y",
+        "ano": 2019
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "nome": "Henrique Souza",
+    "foto": "./public/images/photo6.svg",
+    "cargo": "Frontend JR",
+    "resumo": "Profissional com foco em inovação e colaboração.",
+    "localizacao": "Rio de Janeiro",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": [
+      "Docker",
+      "TypeScript",
+      "SQL",
+      "Tailwind"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Criatividade",
+      "Liderança"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa X",
+        "cargo": "Estágio",
+        "inicio": "2021",
+        "fim": "2023"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Tecnologia",
+        "instituicao": "Universidade Y",
+        "ano": 2019
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "nome": "João Costa",
+    "foto": "./public/images/photo7.svg",
+    "cargo": "Frontend JR",
+    "resumo": "Profissional com foco em inovação e colaboração.",
+    "localizacao": "Salvador",
+    "area": "Marketing",
+    "habilidadesTecnicas": [
+      "React",
+      "Figma",
+      "Node.js",
+      "SQL"
+    ],
+    "softSkills": [
+      "Liderança",
+      "Trabalho em equipe",
+      "Comunicação"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa X",
+        "cargo": "Estágio",
+        "inicio": "2021",
+        "fim": "2023"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Tecnologia",
+        "instituicao": "Universidade Y",
+        "ano": 2019
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "nome": "Isabela Silva",
+    "foto": "./public/images/photo8.svg",
+    "cargo": "Analista de Dados",
+    "resumo": "Profissional com foco em inovação e colaboração.",
+    "localizacao": "São Paulo",
+    "area": "Dados",
+    "habilidadesTecnicas": [
+      "React",
+      "Docker",
+      "Figma",
+      "Tailwind"
+    ],
+    "softSkills": [
+      "Trabalho em equipe",
+      "Liderança",
+      "Criatividade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa X",
+        "cargo": "Estágio",
+        "inicio": "2021",
+        "fim": "2023"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Tecnologia",
+        "instituicao": "Universidade Y",
+        "ano": 2019
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "nome": "Paulo Silva",
+    "foto": "./public/images/photo9.svg",
+    "cargo": "UX Designer",
+    "resumo": "Profissional com foco em inovação e colaboração.",
+    "localizacao": "Salvador",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "SQL",
+      "AWS",
+      "Figma",
+      "TypeScript"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Liderança",
+      "Criatividade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa X",
+        "cargo": "Estágio",
+        "inicio": "2021",
+        "fim": "2023"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Tecnologia",
+        "instituicao": "Universidade Y",
+        "ano": 2019
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "nome": "Isabela Almeida",
+    "foto": "./public/images/photo10.svg",
+    "cargo": "Analista de Dados",
+    "resumo": "Profissional com foco em inovação e colaboração.",
+    "localizacao": "Salvador",
+    "area": "Marketing",
+    "habilidadesTecnicas": [
+      "AWS",
+      "SQL",
+      "Tailwind",
+      "TypeScript"
+    ],
+    "softSkills": [
+      "Liderança",
+      "Criatividade",
+      "Comunicação"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa X",
+        "cargo": "Estágio",
+        "inicio": "2021",
+        "fim": "2023"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Tecnologia",
+        "instituicao": "Universidade Y",
+        "ano": 2019
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "nome": "Carla Costa",
+    "foto": "./public/images/photo1.svg",
+    "cargo": "Frontend JR",
+    "resumo": "Profissional com foco em inovação e colaboração.",
+    "localizacao": "Curitiba",
+    "area": "Marketing",
+    "habilidadesTecnicas": [
+      "Figma",
+      "React",
+      "Node.js",
+      "SQL"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Trabalho em equipe",
+      "Criatividade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa X",
+        "cargo": "Estágio",
+        "inicio": "2021",
+        "fim": "2023"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Tecnologia",
+        "instituicao": "Universidade Y",
+        "ano": 2019
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "nome": "Paulo Souza",
+    "foto": "./public/images/photo2.svg",
+    "cargo": "Dev Full Stack",
+    "resumo": "Profissional com foco em inovação e colaboração.",
+    "localizacao": "São Paulo",
+    "area": "Dados",
+    "habilidadesTecnicas": [
+      "Docker",
+      "Tailwind",
+      "React",
+      "AWS"
+    ],
+    "softSkills": [
+      "Trabalho em equipe",
+      "Comunicação",
+      "Criatividade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa X",
+        "cargo": "Estágio",
+        "inicio": "2021",
+        "fim": "2023"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Tecnologia",
+        "instituicao": "Universidade Y",
+        "ano": 2019
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "nome": "Mariana Costa",
+    "foto": "./public/images/photo3.svg",
+    "cargo": "Dev Full Stack",
+    "resumo": "Profissional com foco em inovação e colaboração.",
+    "localizacao": "Curitiba",
+    "area": "Finanças",
+    "habilidadesTecnicas": [
+      "Node.js",
+      "Docker",
+      "Python",
+      "TypeScript"
+    ],
+    "softSkills": [
+      "Criatividade",
+      "Comunicação",
+      "Liderança"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa X",
+        "cargo": "Estágio",
+        "inicio": "2021",
+        "fim": "2023"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Tecnologia",
+        "instituicao": "Universidade Y",
+        "ano": 2019
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "nome": "Carla Souza",
+    "foto": "./public/images/photo4.svg",
+    "cargo": "Frontend JR",
+    "resumo": "Profissional com foco em inovação e colaboração.",
+    "localizacao": "Curitiba",
+    "area": "Dados",
+    "habilidadesTecnicas": [
+      "Node.js",
+      "TypeScript",
+      "Tailwind",
+      "React"
+    ],
+    "softSkills": [
+      "Liderança",
+      "Criatividade",
+      "Comunicação"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa X",
+        "cargo": "Estágio",
+        "inicio": "2021",
+        "fim": "2023"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Tecnologia",
+        "instituicao": "Universidade Y",
+        "ano": 2019
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "nome": "Ana Costa",
+    "foto": "./public/images/photo5.svg",
+    "cargo": "Dev Full Stack",
+    "resumo": "Profissional com foco em inovação e colaboração.",
+    "localizacao": "Curitiba",
+    "area": "Marketing",
+    "habilidadesTecnicas": [
+      "Tailwind",
+      "TypeScript",
+      "React",
+      "SQL"
+    ],
+    "softSkills": [
+      "Criatividade",
+      "Comunicação",
+      "Trabalho em equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa X",
+        "cargo": "Estágio",
+        "inicio": "2021",
+        "fim": "2023"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Tecnologia",
+        "instituicao": "Universidade Y",
+        "ano": 2019
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "nome": "Rafael Souza",
+    "foto": "./public/images/photo6.svg",
+    "cargo": "UX Designer",
+    "resumo": "Profissional com foco em inovação e colaboração.",
+    "localizacao": "São Paulo",
+    "area": "Finanças",
+    "habilidadesTecnicas": [
+      "AWS",
+      "Figma",
+      "Docker",
+      "TypeScript"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Criatividade",
+      "Liderança"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa X",
+        "cargo": "Estágio",
+        "inicio": "2021",
+        "fim": "2023"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Tecnologia",
+        "instituicao": "Universidade Y",
+        "ano": 2019
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "nome": "Carla Almeida",
+    "foto": "./public/images/photo7.svg",
+    "cargo": "Analista de Dados",
+    "resumo": "Profissional com foco em inovação e colaboração.",
+    "localizacao": "Rio de Janeiro",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "Docker",
+      "Node.js",
+      "React",
+      "SQL"
+    ],
+    "softSkills": [
+      "Trabalho em equipe",
+      "Comunicação",
+      "Liderança"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa X",
+        "cargo": "Estágio",
+        "inicio": "2021",
+        "fim": "2023"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Tecnologia",
+        "instituicao": "Universidade Y",
+        "ano": 2019
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "nome": "Mariana Almeida",
+    "foto": "./public/images/photo8.svg",
+    "cargo": "UX Designer",
+    "resumo": "Profissional com foco em inovação e colaboração.",
+    "localizacao": "Salvador",
+    "area": "Finanças",
+    "habilidadesTecnicas": [
+      "React",
+      "SQL",
+      "Python",
+      "AWS"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Criatividade",
+      "Trabalho em equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa X",
+        "cargo": "Estágio",
+        "inicio": "2021",
+        "fim": "2023"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Tecnologia",
+        "instituicao": "Universidade Y",
+        "ano": 2019
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "nome": "Paulo Souza",
+    "foto": "./public/images/photo9.svg",
+    "cargo": "Dev Full Stack",
+    "resumo": "Profissional com foco em inovação e colaboração.",
+    "localizacao": "Curitiba",
+    "area": "Marketing",
+    "habilidadesTecnicas": [
+      "Python",
+      "AWS",
+      "React",
+      "TypeScript"
+    ],
+    "softSkills": [
+      "Trabalho em equipe",
+      "Criatividade",
+      "Liderança"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa X",
+        "cargo": "Estágio",
+        "inicio": "2021",
+        "fim": "2023"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Tecnologia",
+        "instituicao": "Universidade Y",
+        "ano": 2019
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "nome": "Bruno Souza",
+    "foto": "./public/images/photo10.svg",
+    "cargo": "PM Assistant",
+    "resumo": "Profissional com foco em inovação e colaboração.",
+    "localizacao": "São Paulo",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "TypeScript",
+      "Python",
+      "AWS",
+      "React"
+    ],
+    "softSkills": [
+      "Liderança",
+      "Criatividade",
+      "Trabalho em equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa X",
+        "cargo": "Estágio",
+        "inicio": "2021",
+        "fim": "2023"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Tecnologia",
+        "instituicao": "Universidade Y",
+        "ano": 2019
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "nome": "Rafael Costa",
+    "foto": "./public/images/photo1.svg",
+    "cargo": "PM Assistant",
+    "resumo": "Profissional com foco em inovação e colaboração.",
+    "localizacao": "Fortaleza",
+    "area": "Marketing",
+    "habilidadesTecnicas": [
+      "SQL",
+      "Node.js",
+      "AWS",
+      "Tailwind"
+    ],
+    "softSkills": [
+      "Trabalho em equipe",
+      "Liderança",
+      "Comunicação"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa X",
+        "cargo": "Estágio",
+        "inicio": "2021",
+        "fim": "2023"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Tecnologia",
+        "instituicao": "Universidade Y",
+        "ano": 2019
+      }
+    ]
+  }
+]
